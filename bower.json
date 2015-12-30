@@ -1,10 +1,11 @@
 {
   "name": "croppic",
   "homepage": "http://www.croppic.net",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "authors": [
     "Mat Steinlin <mat@steinlinconsulting.com> (http://www.steinlincosnulting.com)",
-	"Ognjen Božičković"
+	"Ognjen Božičković",
+	"Alan Brookland"
   ],
   "description": "The image cropping jquery plugin that will satisfy your needs and much more",  
   "license": "MIT",  
